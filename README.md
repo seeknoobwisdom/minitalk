@@ -32,6 +32,6 @@ No pipes, no sockets — just signals and patience. 😄
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/yourusername/minitalk.git
+git clone https://github.com/seeknoobwisdom/minitalk.git
 cd minitalk
 make
